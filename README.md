@@ -35,3 +35,30 @@ This project is a full-stack web application built using the MERN stack (MongoDB
 1. Open the application in your web browser (usually at http://localhost:3000).
 2. Register as a patient or doctor (or use existing accounts if available).
 3. Explore the features and functionality as needed.
+
+
+⚙️ Installation & Setup
+Clone the repository:
+
+git clone https://github.com/your-username/doctor-appointment-app.git
+cd doctor-appointment-app
+Install dependencies:
+
+npm install
+Set up environment variables: Create a .env file and add your configuration:
+
+DB_URI=your_database_uri
+JWT_SECRET=your_secret
+Start the development server:
+
+npm start
+🧪 Testing
+Run tests using:
+
+npm test
+📌 Future Enhancements
+👨‍⚕️ Doctor Profile Management
+💬 In-App Chat with Doctor
+📆 Calendar Sync (Google/Outlook)
+💳 Payment Gateway Integration
+🗣️ Multi-Language Support
